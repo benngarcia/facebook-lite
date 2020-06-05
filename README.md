@@ -1,24 +1,3 @@
-# README
+For this app I will be building facebook in accordance with The Odin Project's Curriculum.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You can see the project specifics [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project?ref=lnav#project-building-facebook).
